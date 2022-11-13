@@ -1,6 +1,6 @@
 # TouchDesigner Export Movie Test
 
-These are the files accompanying a short Youtube tutorial found here.
+These are the files accompanying a short [Youtube tutorial found here](https://www.youtube.com/watch?v=rdHCwjrAH1o).
 
 ## Setup
 
